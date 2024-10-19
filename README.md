@@ -20,3 +20,5 @@ To run this project: <br>
   -> Once Streamlit generates a link, click on it to access the interface. <br>
   If any errors occur, generate a new API key from GrowCloud and update the key in the ReferralCraft Ai.ipynb file. <br>
 
+  https://github.com/user-attachments/assets/0dff59ed-ce7b-4983-8bc5-9cb603e1a2cd
+
